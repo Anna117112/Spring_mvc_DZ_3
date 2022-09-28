@@ -22,6 +22,7 @@ public class ProductController {
         this.productsService = productsService;
     }
 
+
 //    поиск по id
    //http://localhost:8489/product/showProductById?id=2
 
